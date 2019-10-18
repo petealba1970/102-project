@@ -1,14 +1,13 @@
 * {
   border: 5px solid black;
   background-color: white;
-width: 1360px;
   margin: 0px auto;
 } 
 body {
   margin: 0px auto;
   width: 1200px;
   background-color: rgb(214, 233, 176);
-  font-family: Helvetica, Arial, Helvetica, sans-serif ,sans-serif, 'Gill Sans MT';
+  font-family: Helvetica, Arial, Helvetica, sans-serif, 'Gill Sans MT';
     color: rgb(31 44, 4);
 }
 
@@ -23,9 +22,9 @@ header > nav {
 
 header > nav> ul >li {
   display: inline block;
-  width: 100px;
   padding: 5px;
   margin: 15px;
   border: 1px red;
   border-radius: 25px;
   text-align: center;
+}
